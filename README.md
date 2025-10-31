@@ -18,6 +18,7 @@ Deployed Links:
 Code:
 
 Assignment-1-BasicTaskManager/
+
 🧱 Assignment 2 — Mini Project Manager 
 Stack:
 Backend: .NET 8 + Entity Framework + JWT Auth
@@ -30,7 +31,8 @@ Manage multiple projects and their tasks
 Add / edit / delete / toggle tasks
 
 Deployed Links:
-🖥️ Frontend: https://mini-project-manager.vercel.app
+🖥️ Frontend: [https://mini-project-manager.vercel.app](https://pathlock-project-placement-kjwb.vercel.app/login)
+
 ⚙️ Backend: https://mini-project-api.onrender.com
 Code:
 Assignment-2-MiniProjectManager/
