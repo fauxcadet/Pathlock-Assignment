@@ -34,6 +34,8 @@ Deployed Links:
 🖥️ Frontend: [https://mini-project-manager.vercel.app](https://pathlock-project-placement-kjwb.vercel.app/login)
 
 ⚙️ Backend: https://mini-project-api.onrender.com
+
+
 Code:
 Assignment-2-MiniProjectManager/
 🚀 Deployment Details
