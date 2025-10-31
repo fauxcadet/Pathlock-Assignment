@@ -66,6 +66,11 @@ app.MapDelete("/api/tasks/{id}", (int id) =>
     tasks.Remove(task);
     return Results.Ok();
 });
+app.UseCors(policy =>
+    policy.AllowAnyOrigin()
+          .AllowAnyMethod()
+          .AllowAnyHeader());
+
 
 app.Run();
 
